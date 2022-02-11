@@ -25,5 +25,11 @@ Common actions for Helm:
 - helm install:   upload the chart to Kubernetes
 - helm list:      list releases of charts
 
+Explore helm chart and create your own chart:
+https://artifacthub.io/
+
+Explore various helm commands:
+https://helm.sh/docs/helm/helm_get/
+
 
 
